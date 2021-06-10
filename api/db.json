@@ -1,0 +1,23 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "title": "Stream after refactor",
+      "description": "Checking code reusability 1",
+      "id": 5
+    }
+  ]
+}
